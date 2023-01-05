@@ -11,7 +11,7 @@ I have added a detailed notes on the training and inference model in this [repos
 
 ## Instructions
 
-### To run locally,
+#### To run locally,
 
 Clone this repository with ```git clone```.
 
@@ -24,7 +24,7 @@ Run ```python app.py``` to open the app on ```localhost:8000```.
 
 
 
-## To Deploy in Heruko
+### To Deploy in Heruko
 
 1. Make sure you have all the requirements in ```requirements.py```.
 
